@@ -13,9 +13,13 @@ I'm Marco Lucchini, Mathematical Engineering student at Politecnico di Milano. M
 - [`Mixed and functional analysis models for studying
 Heart Failure (re)-hospitalizations`](https://github.com/marcolucchini/Heart-Failure-re-hospitalizations): The main aim of this study is to provide statistically relevant methods for identifying the potentially high-risk patients in advance and understanding which are the main patient-level features that have an impact on the re-hospitalization.
 
-- [`Estimating Client's Needs using Machine Learning`](https://github.com/marcolucchini/Fintech-Project) : Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
+- [`Estimating Client's Needs using Machine Learning`](https://github.com/marcolucchini/Fintech-Project): Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
 
-- [`Study Plan Maker`](https://github.com/marcolucchini/Study-Plan-Maker): a linear programming web-app to simulate the best study plan for Mathematical Engineering students.
+[`Bayesian Study of Gender Bias In Mathematics`](https://github.com/marcolucchini/Bayesian-Study-of-Gender-Bias-In-Mathematics): Bayesian methods project about gender bias in school results.
+
+- [`Burn Wound Therapy Comparison`](https://github.com/marcolucchini/Burn-Wound-Therapy-Comparison): Lifetime data analysis project which studies the effectiveness of treatments in burn therapy using a parametric and nonparametric approach.
+
+- [`Study Plan Maker`](https://github.com/marcolucchini/Study-Plan-Maker): Linear programming web-app to simulate the best study plan for Mathematical Engineering students.
 
 ## ✉️ **Get in Contact with me:**
 
