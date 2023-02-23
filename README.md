@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hey 😄
+
+I'm Marco Lucchini, Mathematical Engineering student at Politecnico di Milano. My studies are focused on Statistical Learning and Data Science.
 
 ## 🎓 **Education:**
 
@@ -8,8 +10,8 @@
 
 ## ✉️ **Get in Contact with me:**
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marco-lucchini-294801218/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcolucchini99@gmail.com)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marco-lucchini-294801218/)
+- `marcolucchini99@gmail.com`
 
 
 ## 🚀 **Skills:**
@@ -20,12 +22,27 @@
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg' height='28'>  &nbsp
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' height='28'>  &nbsp 
         <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg' height='28'>  &nbsp 
-        <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg' height='28'>  &nbsp 
 </ul>
 
 ## 🔨 **Projects:**
 
-* [`Estimating Client's Needs using Machine Learning`](https://github.com/marcolucchini/Fintech-Project) : Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
+- [`Mixed and functional analysis models for studying
+Heart Failure (re)-hospitalizations`](https://github.com/marcolucchini/Heart-Failure-re-hospitalizations): The main aim of this study is to provide statistically relevant methods for identifying the potentially high-risk patients in advance and understanding which are the main patient-level features that have an impact on the re-hospitalization.
+
+- [`Estimating Client's Needs using Machine Learning`](https://github.com/marcolucchini/Fintech-Project) : Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
+
+- [`Study Plan Maker`](https://github.com/marcolucchini/Study-Plan-Maker): a linear programming web-app to simulate the best study plan for Mathematical Engineering students.
+
+
+## 🙋🏼‍♂️ **About me:**
+
+- 👨🏻‍💻: MATLAB Ambassador @PoliMi
+- 🏊🏻‍♂️: Lifeguard
+- 🏐: Sport addicted
+- 🏔: Mountain lover
+
+
+
 
 <!--
 **marcolucchini/marcolucchini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
