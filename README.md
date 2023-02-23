@@ -15,7 +15,7 @@ Heart Failure (re)-hospitalizations`](https://github.com/marcolucchini/Heart-Fai
 
 - [`Estimating Client's Needs using Machine Learning`](https://github.com/marcolucchini/Fintech-Project): Exploited machine learning techniques to create a cross-platform web-app to recommend products based on clients' needs.
 
-[`Bayesian Study of Gender Bias In Mathematics`](https://github.com/marcolucchini/Bayesian-Study-of-Gender-Bias-In-Mathematics): Bayesian methods project about gender bias in school results.
+- [`Bayesian Study of Gender Bias In Mathematics`](https://github.com/marcolucchini/Bayesian-Study-of-Gender-Bias-In-Mathematics): Bayesian methods project about gender bias in school results.
 
 - [`Burn Wound Therapy Comparison`](https://github.com/marcolucchini/Burn-Wound-Therapy-Comparison): Lifetime data analysis project which studies the effectiveness of treatments in burn therapy using a parametric and nonparametric approach.
 
