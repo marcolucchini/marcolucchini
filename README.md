@@ -38,7 +38,7 @@ Heart Failure (re)-hospitalizations`](https://github.com/marcolucchini/Heart-Fai
 
 ## 🙋🏼‍♂️ **About me:**
 
-- 👨🏻‍💻: MATLAB Ambassador @PoliMi
+- 👨🏻‍💻: MATLAB Student Ambassador @PoliMi
 - 🏊🏻‍♂️: Lifeguard
 - 🏐: Sport addicted
 - 🏔: Mountain lover
