@@ -1,4 +1,4 @@
-# Hey 😄
+# Hi there! 😄
 
 I'm Marco Lucchini, Mathematical Engineering student at Politecnico di Milano. My studies are focused on Statistical Learning and Data Science.
 
