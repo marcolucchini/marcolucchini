@@ -10,6 +10,8 @@ I'm Marco Lucchini, Mathematical Engineering student at Politecnico di Milano. M
 
 ## 🔨 **Projects:**
 
+- [`Pricing and Advertising Optimization with Online Learning Algorithms`](https://github.com/marcolucchini/Pricing-and-Advertising-Project): Applied multi-armed bandits algorithms integrated with Gaussian Processes to optimize pricing and advertising strategies. Engineered an artificial testing environment, simulating 3 distinct customer classes, enabling tailored marketing approaches.
+
 - [`Mixed and functional analysis models for studying
 Heart Failure (re)-hospitalizations`](https://github.com/marcolucchini/Heart-Failure-re-hospitalizations): The main aim of this study is to provide statistically relevant methods for identifying the potentially high-risk patients in advance and understanding which are the main patient-level features that have an impact on the re-hospitalization.
 
