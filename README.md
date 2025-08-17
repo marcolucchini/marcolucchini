@@ -1,6 +1,6 @@
 # Hi there! 😄
 
-I'm Marco Lucchini, Mathematical Engineering student at Politecnico di Milano. My studies are focused on Statistical Learning and Data Science.
+I'm Marco Lucchini, a Data Scientist and studied Mathematical Engineering at Politecnico di Milano.
 
 ## 🎓 **Education:**
 
@@ -9,6 +9,8 @@ I'm Marco Lucchini, Mathematical Engineering student at Politecnico di Milano. M
 - BSc in Mathematical Engineering at Politecnico di Milano
 
 ## 🔨 **Projects:**
+
+- [`Automated Email-to-Audio News Digest System`](https://github.com/marcolucchini/mail_to_audio_news_digest): Engineered a pipeline to fetch, clean, and process email newsletters, automating the conversion of email content into audio summaries. Automated delivery of audio digests to Telegram chats using a custom Telegram bot.
 
 - [`Pricing and Advertising Optimization with Online Learning Algorithms`](https://github.com/marcolucchini/Pricing-and-Advertising-Project): Applied multi-armed bandits algorithms integrated with Gaussian Processes to optimize pricing and advertising strategies. Engineered an artificial testing environment, simulating 3 distinct customer classes, enabling tailored marketing approaches.
 
